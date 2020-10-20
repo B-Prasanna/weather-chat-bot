@@ -16,3 +16,13 @@ Finally:
 
 CONCLUSION:
    The weather report chat bot gives the information about the weather in other countries or any wear.
+
+
+I completed this weather chat bot with the help of my team mates:
+
+
+Dadala Bharath
+
+Bazawad Chinmayi
+
+Bitra Lakshmi Prasanna
